@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+.ipynb_checkpoints/
+.csv
+# Large local datasets
+data/raw/
+*.zip
